@@ -1,4 +1,4 @@
-package com.example.sqliteapp
+package sv.edu.udb.sqliteapp.db
 
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
@@ -6,8 +6,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.example.sqliteapp.db.HelperDB
-import com.example.sqliteapp.model.Categoria
+import sv.edu.udb.sqliteapp.model.Categoria
 import sv.edu.udb.sqliteapp.R
 import sv.edu.udb.sqliteapp.model.Productos
 

@@ -4,7 +4,7 @@ import android.content.ContentValues
 import android.content.Context
 import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
-import com.example.sqliteapp.db.HelperDB
+import sv.edu.udb.sqliteapp.db.HelperDB
 
 class Productos(context: Context?) {
     private var helper: HelperDB? = null

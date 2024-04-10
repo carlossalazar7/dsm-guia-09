@@ -1,8 +1,8 @@
-package com.example.sqliteapp.db
+package sv.edu.udb.sqliteapp.db
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import com.example.sqliteapp.model.Categoria
+import sv.edu.udb.sqliteapp.model.Categoria
 import sv.edu.udb.sqliteapp.model.Productos
 
 class HelperDB(context: Context?) :
